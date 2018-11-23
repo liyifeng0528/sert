@@ -1,40 +1,43 @@
 {
-  "squadName" : "Super hero squad",
-  "homeTown" : "Metro City",
-  "formed" : 2016,
+  "squadName" : "电视大全",
+  "出品人" : "石",
+  "出品时间" : 2018,
   "secretBase" : "Super tower",
   "active" : true,
   "members" : [
     {
-      "name" : "Molecule Man",
-      "age" : 29,
-      "secretIdentity" : "Dan Jukes",
+      "name" : "电视剧",
+      "种类" : 8,
       "powers" : [
-        "Radiation resistance",
-        "Turning tiny",
-        "Radiation blast"
+        "最近最火电视剧",
+        "众星云集"
       ]
     },
     {
-      "name" : "Madame Uppercut",
-      "age" : 39,
+      "name" : "综艺",
+      "种类" : 5,
       "secretIdentity" : "Jane Wilson",
       "powers" : [
-        "Million tonne punch",
-        "Damage resistance",
-        "Superhuman reflexes"
+        "热门综艺",
+        "笑料百出"
       ]
     },
     {
-      "name" : "Eternal Flame",
-      "age" : 1000000,
+      "name" : "电影",
+      "种类" : 6,
       "secretIdentity" : "Unknown",
       "powers" : [
-        "Immortality",
-        "Heat Immunity",
-        "Inferno",
-        "Teleportation",
-        "Interdimensional travel"
+        "票房电影",
+        "精彩纷呈"
+      ]
+    },
+    {
+      "name" : "动漫",
+      "种类" : 5,
+      "secretIdentity" : "Unknown",
+      "powers" : [
+        "青春动漫",
+        "热力全开"
       ]
     }
   ]
